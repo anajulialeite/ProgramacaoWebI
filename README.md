@@ -6,7 +6,7 @@ O meu portifólio pessoal e profissional já foi criado e tem um repositório ex
 
 Link do meu Portifólio: <a href= "https://anajulialeite.github.io/Meu_Portifolio/">Meu portifólio</a>
 
-link de como baixar o <a href= "NodeJS: https://nodejs.org/en">NodeJS</a>
+link de como baixar o <a href= "https://nodejs.org/en">NodeJS</a>
 
 link de como baixar o Git e o GitHub: <a href= "https://www.youtube.com/watch?v=gMh6lrXibWY&t=1893s">Git e GitHub</a>
 

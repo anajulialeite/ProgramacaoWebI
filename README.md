@@ -1,4 +1,4 @@
-# ProgramacaoWebI
+# Programação Web I
 
 Este repositório contém atividades ministradas em sala de aula com o Professor Thallys Silva Braz, aqui você vai encontrar códigos feitos na linguagem de marcação HTML5 e CSS3, linguagem de programação JavaScript, a plataforma NodeJS, o framework ReactJS, também iremos estudar sobre Git - versionamento e o GitHub.
 

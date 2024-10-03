@@ -10,6 +10,8 @@ link de como baixar o <a href= "https://nodejs.org/en">NodeJS</a>
 
 link de como baixar o <a href= "https://www.youtube.com/watch?v=gMh6lrXibWY&t=1893s">Git e GitHub</a>
 
+link da documentação do git <a href= "https://git-scm.com/doc">Doc.</a>
+
 Atividades feitas em sala de aula:
 
 <a href= "https://anajulialeite.github.io/ProgramacaoWebI/Aula%201/Aula%201.html">Executar Aula 1</a>

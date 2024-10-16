@@ -33,6 +33,24 @@ const login = async (req, res) => {
 };
 
 const getProfile = async (req, res) => {
+    try {
+        const id = req.id;
+    const user = await userService.getUserById(id);
+    if (user) {
+        res.send({
+            name: user.name,
+            email: user.email
+        });
+    }
+    else {
+        res.status(404).send({error: "Usuário não exites"})
+    }
+} catch (error) {
+    res.status(500).send({
+        error: "Falha na rota get profile",
+        statusError: 12
+    })
+}
 
 };
 

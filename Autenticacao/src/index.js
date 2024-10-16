@@ -11,7 +11,7 @@ const port = 3000;
 
 app.post("/register", userController.register);
 app.post("/login", userController.login);
-app.get("/perfil", authMiddleware, userController.getProfile);
+app.get("/perfil", authMiddleware, userController.getProfile); //rota, middleware, controller
 
 app.listen(port, () => {
     console.log(`Servidor iniciado na porta ${port}`);

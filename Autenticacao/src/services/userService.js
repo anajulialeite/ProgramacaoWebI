@@ -22,7 +22,7 @@ async function authenticateUser(email, password) {
 }
 
 async function getUserById(id) {
-
+     return userRepository.findUserById(id)
 }
 
 module.exports = {

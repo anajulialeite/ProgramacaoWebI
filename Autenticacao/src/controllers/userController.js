@@ -34,7 +34,7 @@ const login = async (req, res) => {
 
 const getProfile = async (req, res) => {
     try {
-        const id = req.id;
+        const id = req.userDate.id;
     const user = await userService.getUserById(id);
     if (user) {
         res.send({
@@ -43,16 +43,15 @@ const getProfile = async (req, res) => {
         });
     }
     else {
-        res.status(404).send({error: "Usuário não exites"})
+        res.status(404).send({error: "Usuário não exite!"})
     }
 } catch (error) {
     res.status(500).send({
         error: "Falha na rota get profile",
-        statusError: 12
-    })
-}
-
-};
+        statusError: 1
+        })
+    }
+}; //aqui ele é falho a segurança pq é fácil pegar o ID da requisição, consigo usar me passando por outra pessoa
 
 module.exports = {
     register,

@@ -50,8 +50,8 @@ const getProfile = async (req, res) => {
         error: "Falha na rota get profile",
         statusError: 1
         })
-    }
-}; //aqui ele é falho a segurança pq é fácil pegar o ID da requisição, consigo usar me passando por outra pessoa
+    } //aqui ele é falho a segurança pq é fácil pegar o ID da requisição, consigo usar me passando por outra pessoa
+}; 
 
 module.exports = {
     register,

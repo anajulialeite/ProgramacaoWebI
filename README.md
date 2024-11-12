@@ -4,8 +4,6 @@ Este repositório contém atividades ministradas em sala de aula com o Professor
 
 O meu portifólio pessoal e profissional já foi criado e tem um repositório exclusivo sobre ele aqui no meu GitHub. Para o objetivo do projeto, você também vai encontra-lo por aqui.
 
-Link para abrir o <a href= "https://anajulialeite.github.io/Meu_Portifolio/">Meu portifólio</a>
-
 link de como baixar o <a href= "https://nodejs.org/en">NodeJS</a>
 
 link de como baixar o <a href= "https://www.youtube.com/watch?v=gMh6lrXibWY&t=1893s">Git e GitHub</a>

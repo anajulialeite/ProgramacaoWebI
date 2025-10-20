@@ -6,6 +6,8 @@ Este repositório contém atividades ministradas em sala de aula com o Professor
 
 O meu portifólio pessoal e profissional já foi criado e tem um repositório exclusivo sobre ele aqui no meu GitHub. Para o objetivo do projeto, você também vai encontra-lo por aqui.
 
+## Links úteis
+
 link do meu <a href= "https://anajulialeite.github.io/Meu_Portifolio/">Portifólio</a>
 
 link de como baixar o <a href= "https://nodejs.org/en">NodeJS</a>
@@ -14,7 +16,7 @@ link de como baixar o <a href= "https://www.youtube.com/watch?v=gMh6lrXibWY&t=18
 
 link da documentação do git <a href= "https://git-scm.com/doc">Doc.</a>
 
-Atividades feitas em sala de aula:
+## Atividades feitas em sala de aula
 
 <a href= "https://anajulialeite.github.io/ProgramacaoWebI/Aula%201/Aula%201.html">Executar Aula 1</a>
 
@@ -24,6 +26,6 @@ Atividades feitas em sala de aula:
 
 
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)

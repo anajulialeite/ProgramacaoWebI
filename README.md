@@ -24,8 +24,6 @@ link da documentação do git <a href= "https://git-scm.com/doc">Doc.</a>
 
 <a href= "https://anajulialeite.github.io/ProgramacaoWebI/Aula%204/index.html">Executar Aula 4</a>
 
-
-
 ## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
